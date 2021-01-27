@@ -1,0 +1,24 @@
+html {
+    background-color: lightblue;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 250;
+    height: 275;
+    cursor: none;
+}
+
+.factsabouttim {
+    background-color: darkblue;
+    color: aqua;
+    cursor: none;
+}
+
+span {
+    font-style: oblique;
+}
